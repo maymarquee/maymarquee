@@ -6,16 +6,10 @@
 - 🛠️ Conhecimento em **front-end** e design de interfaces.
 - 📚 Apaixonada por leitura e criatividade.
 
-<table align="center">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=maymarquee&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymarquee&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Languages" height="150"/>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=maymarquee&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymarquee&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Languages" height="150"/>
+</div>
 
 
 ---
