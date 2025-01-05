@@ -2,7 +2,7 @@
 
 ### 🖥️ Sobre mim
 - 🎓 Estudante de **Engenharia de Software** na **UnB**.
-- 💡 Integrante do **Meninas.Comp**, promovendo diversidade na tecnologia.
+- 💡 Integrante do [**Meninas.comp**](https://www.linkedin.com/company/meninas-comp/), promovendo diversidade na tecnologia.
 - 🛠️ Conhecimento em **front-end** e design de interfaces.
 - 📚 Apaixonada por leitura e criatividade.
 
